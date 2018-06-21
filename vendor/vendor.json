@@ -52,12 +52,6 @@
 			"revisionTime": "2018-03-13T12:35:18Z"
 		},
 		{
-			"checksumSHA1": "5XvXNHjfoSkoit+E+T0qnkKVGcM=",
-			"path": "github.com/ethereum/go-ethereum/core/vm",
-			"revision": "62bc179bb964e8852ff33f8fcebc916bbf938424",
-			"revisionTime": "2018-03-13T12:35:18Z"
-		},
-		{
 			"checksumSHA1": "PSx8ACgC3L7WzkPZfHJkukAuMEs=",
 			"path": "github.com/ethereum/go-ethereum/crypto",
 			"revision": "62bc179bb964e8852ff33f8fcebc916bbf938424",
